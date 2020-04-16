@@ -1,0 +1,89 @@
+{
+  "files" : {
+    "-M5138kCN3OAEkoh5YwO" : {
+      "name" : "D9VoZlrVAAAJqp3.jpg",
+      "size" : 36308,
+      "uploadedAt" : 1587025052031,
+      "uploader" : "andreasluhut2911",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/drive-66aed.appspot.com/o/drive%2F1587025049726_D9VoZlrVAAAJqp3.jpg?alt=media&token=cc886a63-c8a6-469a-b388-228cd579b5dd"
+    },
+    "-M5167JibuCu0tNvd_8V" : {
+      "name" : "keindahan alam bebas-min.jpeg",
+      "size" : 392270,
+      "uploadedAt" : 1587025832616,
+      "uploader" : "andreasluhut2911",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/drive-66aed.appspot.com/o/drive%2F1587025828334_keindahan%20alam%20bebas-min.jpeg?alt=media&token=d597a99c-5ee5-4ffd-90bc-ad3d80349804"
+    },
+    "-M516F59ZEnjs-WfpqLc" : {
+      "name" : "ab436d368f94e7253e5afa789059260c.jpg",
+      "size" : 32413,
+      "uploadedAt" : 1587025864452,
+      "uploader" : "andreasluhut2911",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/drive-66aed.appspot.com/o/drive%2F1587025863388_ab436d368f94e7253e5afa789059260c.jpg?alt=media&token=67d5b4fd-a778-4370-81cc-7b7b59954f26"
+    },
+    "-M51EXdefDOTdjAfnMPB" : {
+      "name" : "5534212_20130605080237.gif",
+      "size" : 466569,
+      "uploadedAt" : 1587028037592,
+      "uploader" : "andreasluhut2911",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/drive-66aed.appspot.com/o/drive%2F1587028032515_5534212_20130605080237.gif?alt=media&token=eb87de43-f93a-4204-9c83-3586b34d6d63"
+    },
+    "-M51EhGj87nfP3BJJjtW" : {
+      "name" : "ab436d368f94e7253e5afa789059260c.jpg",
+      "size" : 32413,
+      "uploadedAt" : 1587028081117,
+      "uploader" : "andreasluhut2911",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/drive-66aed.appspot.com/o/drive%2F1587028079608_ab436d368f94e7253e5afa789059260c.jpg?alt=media&token=30780fb8-0b3f-44f3-9cd3-bb6b33fd9e5f"
+    },
+    "-M51T6yBe5j1xK8jOotp" : {
+      "name" : "5534212_20130605080237.gif",
+      "size" : 466569,
+      "uploadedAt" : 1587031860477,
+      "uploader" : "andreasluhut2911",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/drive-66aed.appspot.com/o/drive%2F1587031855042_5534212_20130605080237.gif?alt=media&token=be3542e7-c7d3-472c-96f5-b919432dcdda"
+    }
+  },
+  "users" : {
+    "1b5tlUGTJ4dcDBw63M3XrsmFo1r2" : {
+      "displayName" : "luhutmanulang26",
+      "email" : "luhutmanulang26@gmail.com",
+      "permissions" : {
+        "create" : true,
+        "delete" : true,
+        "read" : true
+      },
+      "role" : 0
+    },
+    "69hUxdodBeaPw2RLYQyoSIYsTiC2" : {
+      "displayName" : "will.i.am",
+      "email" : "will.i.am@gmail.com",
+      "permissions" : {
+        "create" : false,
+        "delete" : false,
+        "read" : true
+      },
+      "role" : 0
+    },
+    "MlAJP5JTxTb9gl5yLeAXFeMH8UB2" : {
+      "displayName" : "asem",
+      "email" : "asem@gmail.com",
+      "permissions" : {
+        "create" : false,
+        "delete" : true,
+        "read" : false
+      },
+      "role" : 0
+    },
+    "h1ZYXT6RmbPfngCZDGo8iYWgIxD2" : {
+      "displayName" : "andreasluhut2911",
+      "email" : "andreasluhut2911@gmail.com",
+      "permissions" : {
+        "create" : true,
+        "delete" : true,
+        "read" : true,
+        "update" : true
+      },
+      "role" : 2
+    }
+  }
+}
